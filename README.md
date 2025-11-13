@@ -8,7 +8,6 @@ This project includes:
 - 🧠 A **trained ML model** (TF-IDF + Logistic Regression)  
 - ⚙️ A **Streamlit web app** for real-time predictions  
 - 📘 Google Colab training notebook  
-- 📂 Organized folder structure  
 - 📝 Sample inputs & outputs  
 - 🚀 Lightweight, fast, and runs offline  
 
