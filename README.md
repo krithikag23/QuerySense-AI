@@ -40,7 +40,7 @@ Model predicts **one of 77 intents** for any input query.
 
 ---
 
-## 🧪 Sample Inputs & Outputs
+## 🧪 Sample Input & Outputs
 
 ### Input
 When will my new card arrive?
